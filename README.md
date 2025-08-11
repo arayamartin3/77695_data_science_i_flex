@@ -1,7 +1,7 @@
 
 # 77695 - Curso de Data Science I 
-_Docente a cargo: Anderson Ocaña_
-_Tutor adjunto: Arturo Grottolli_
+- _Docente a cargo: Anderson Ocaña_
+- _Tutor adjunto: Arturo Grottolli_
 ---
 
  **Clase Induccion**
